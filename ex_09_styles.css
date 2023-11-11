@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@200&family=Rubik+Mono+One&display=swap');
+/* 
+  Use the above line if you want to import fonts that are not usually found in a CSS File
+  Like from Google Fonts
+*/
+.header-style {
+    font-family: 'Rubik Mono One', monospace;
+    font-size: large;
+    font-weight: 400;
+    text-align: center;
+    text-shadow: 2px;
+}
+
+.header2-style {
+    font-family: 'Rubik Mono One', monospace;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.body-style {
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 200;
+}
+
+.bullet-style {
+    list-style: circle;
+}
